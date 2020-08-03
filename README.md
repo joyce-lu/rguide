@@ -8,6 +8,11 @@ A helpful tip to save time: the stuff hidden behind light bulb icons is good but
 
 Another helpful tip to save time: sections with a red dot in the header are for beginner-beginners, as in this is your first time opening RStudio.
 
+Coming soon:
+1. R syntax cheatsheet
+2. Helpful functions for data analysis that you can steal
+3. Short practice exercises
+
 ## The Basics
 
 >*If you've never touched code before and have no idea where to begin, start here!*
