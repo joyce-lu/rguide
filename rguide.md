@@ -42,7 +42,7 @@ A package is a bundle of functions that somebody else has written for you to use
 
 Before attaching a package, you need to install it. (This happens only once; a package will remain installed unless you actively uninstall it.) Say you want to install the package `ggplot2`; just run the command `install.packages("ggplot2")`. (Note the quotes--you need them!)
 
-Now you can attach it via the command `library(ggplot2)`. (Quotes are optional this time.) You have to reattach a package after you clear your workspace, if you want to use it again. Sometimes, you'll see people attach packages with `require(ggplot2)`. [They would be wrong. :)] (https://yihui.org/en/2014/07/library-vs-require/)
+Now you can attach it via the command `library(ggplot2)`. (Quotes are optional this time.) You have to reattach a package after you clear your workspace, if you want to use it again. Sometimes, you'll see people attach packages with `require(ggplot2)`. [They would be wrong. :)](https://yihui.org/en/2014/07/library-vs-require/)
 
 Now that you've attached the package, you can use any of its functions. To see the documentation (aka instructions) for a function--for instance, `read_excel`--simply run the command `?read_excel`.
 
