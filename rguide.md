@@ -1,8 +1,8 @@
 # A Lazy Person's Guide to R
 
-This is a guide to R, written by a lazy statistics student for lazy statistics students! My goal is to make this as helpful as possible for you, regardless of whether you are someone who (1) has never scripted or coded in your entire life or (2) knows R basics but just needs a refresher. If you're (3) a programmer coming from another language, read [this] (http://arrgh.tim-smith.us/) instead. It will probably be very cathartic for you.
+This is a guide to R, written by a lazy statistics student for lazy statistics students! My goal is to make this as helpful as possible for you, regardless of whether you are someone who (1) has never scripted or coded in your entire life or (2) knows R basics but just needs a refresher. If you're (3) a programmer coming from another language, read [this](http://arrgh.tim-smith.us/) instead. It will probably be very cathartic for you.
 
-Before you continue, [install RStudio] (https://rstudio.com/products/rstudio/download/) if you have not already.
+Before you continue, [install RStudio](https://rstudio.com/products/rstudio/download/) if you have not already.
 
 A helpful tip to save time: the stuff hidden behind light bulb icons is good but not necessary to know for an R beginner (...or if your pset is due in two hours).
 
